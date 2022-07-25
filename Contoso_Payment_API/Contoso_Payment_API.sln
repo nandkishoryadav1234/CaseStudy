@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contoso_Payment_API", "Contoso_Payment_API\Contoso_Payment_API.csproj", "{C52BF0C6-815F-4D52-AC96-4802B6129777}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso_Payment_API_Model", "Contoso_Payment_API_Model\Contoso_Payment_API_Model.csproj", "{996C5325-73FA-4546-A719-FDA2EF524C15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso_Payment_API_Services", "Contoso_Payment_API_Services\Contoso_Payment_API_Services.csproj", "{05C4FDC3-CA7C-4F58-919E-62ED7BCCD77B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso_Payment_API_Repository", "Contoso_Payment_API_Repository\Contoso_Payment_API_Repository.csproj", "{FCF84B86-7B71-4264-9B8D-09D7963089B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso_Payment_API_Unit_Test", "Contoso_Payment_API_Unit_Test\Contoso_Payment_API_Unit_Test.csproj", "{ED8FB9EF-E111-4E50-94E6-37E580E55DC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C52BF0C6-815F-4D52-AC96-4802B6129777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C52BF0C6-815F-4D52-AC96-4802B6129777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C52BF0C6-815F-4D52-AC96-4802B6129777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C52BF0C6-815F-4D52-AC96-4802B6129777}.Release|Any CPU.Build.0 = Release|Any CPU
+		{996C5325-73FA-4546-A719-FDA2EF524C15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{996C5325-73FA-4546-A719-FDA2EF524C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{996C5325-73FA-4546-A719-FDA2EF524C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{996C5325-73FA-4546-A719-FDA2EF524C15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05C4FDC3-CA7C-4F58-919E-62ED7BCCD77B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05C4FDC3-CA7C-4F58-919E-62ED7BCCD77B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05C4FDC3-CA7C-4F58-919E-62ED7BCCD77B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05C4FDC3-CA7C-4F58-919E-62ED7BCCD77B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCF84B86-7B71-4264-9B8D-09D7963089B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF84B86-7B71-4264-9B8D-09D7963089B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF84B86-7B71-4264-9B8D-09D7963089B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF84B86-7B71-4264-9B8D-09D7963089B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED8FB9EF-E111-4E50-94E6-37E580E55DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED8FB9EF-E111-4E50-94E6-37E580E55DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED8FB9EF-E111-4E50-94E6-37E580E55DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED8FB9EF-E111-4E50-94E6-37E580E55DC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49BFCCAB-8F93-48D7-A1A8-B423AB4307E5}
+	EndGlobalSection
+EndGlobal

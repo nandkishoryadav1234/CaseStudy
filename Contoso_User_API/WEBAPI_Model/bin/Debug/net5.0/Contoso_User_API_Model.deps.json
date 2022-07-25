@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Contoso_User_API_Model/1.0.0": {
+        "runtime": {
+          "Contoso_User_API_Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Contoso_User_API_Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
